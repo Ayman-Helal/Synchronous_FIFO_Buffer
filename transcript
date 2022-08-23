@@ -1,0 +1,15 @@
+# vsim work.FIFO2 
+# Start time: 12:29:57 on Feb 24,2022
+# ** Error: (vsim-3170) Could not find 'FIFO2'.
+#         Searched libraries:
+#             C:/Users/future/Desktop/FIFO2/work
+# Error loading design
+# End time: 12:29:58 on Feb 24,2022, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vsim work.FIFO
+# vsim work.FIFO 
+# Start time: 12:30:05 on Feb 24,2022
+# Loading work.FIFO
+add wave sim:/FIFO/*
+# End time: 12:30:33 on Feb 24,2022, Elapsed time: 0:00:28
+# Errors: 0, Warnings: 0
